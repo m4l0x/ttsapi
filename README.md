@@ -1,7 +1,7 @@
 
-# TTS API estilo ReadSpeaker
+# Nigma TTS API Text-to-Speech Service
 
-Este proyecto es una API RESTful en Node.js que convierte texto en voz, simulando un servicio tipo ReadSpeaker. Incluye documentación Swagger y está lista para desplegar en [Render](https://render.com).
+Este proyecto es una API RESTful en Node.js que convierte texto en voz, Incluye documentación Swagger y está lista para desplegar en [Render](https://render.com).
 
 ## 🚀 Características
 
